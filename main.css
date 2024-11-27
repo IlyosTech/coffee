@@ -18,3 +18,19 @@
     padding: 120px 30px;
     border-radius: 20px;
 }
+.index-2{
+  background: url("./images/Bitmap\ \(2).png");
+  background-position: center;
+  background-size: cover;
+  background-repeat: no-repeat;
+  padding: 120px 30px;
+  border-radius: 20px;
+}
+.index-3{
+  background: url("./images/Bitmap\(3\)png.jpg");
+  background-position: center;
+  background-size: cover;
+  background-repeat: no-repeat;
+  padding: 120px 30px;
+  border-radius: 20px;
+}
